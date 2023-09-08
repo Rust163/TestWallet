@@ -1,0 +1,4 @@
+Category: Deposit, Amount: 1000
+Category: Food, Amount: -50
+Category: Entertainment, Amount: -100
+Category: Shopping, Amount: -200
